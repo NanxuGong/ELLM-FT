@@ -1,0 +1,6 @@
+/data/*hdf
+/data/*csv
+/tmp
+/llama
+*log
+*txt
