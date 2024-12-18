@@ -1,7 +1,7 @@
 # ELLM-FT
-This is the implementation code of the paper "Evolutionary Large Language Model for Automated Feature Transformation", accepted to AAAI 2025
+This is the implementation code of the paper "[AAAI 2025] Evolutionary Large Language Model for Automated Feature Transformation"
 
-## implementation
+## Implementation
 ### Step 1: download the data: 
 ```
 follow the instruction in /data/readme.md
@@ -15,3 +15,4 @@ python3 xxx/datacollection/rl_data_collector.py --file-name DATASETNAME
 ```
 python3 xxx/llm_generation.py ---task_name DATASETNAME --task_type DATASETTYPE
 ```
+
