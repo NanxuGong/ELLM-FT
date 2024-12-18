@@ -1,5 +1,5 @@
 # ELLM-FT
-This is the implementation code of the paper "Evolutionary Large Language Model for Automated Feature Transformation"
+This is the implementation code of the paper "Evolutionary Large Language Model for Automated Feature Transformation", accepted to AAAI 2025
 
 ## implementation
 ### Step 1: download the data: 
